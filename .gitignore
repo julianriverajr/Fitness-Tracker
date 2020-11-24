@@ -107,3 +107,4 @@ dist
 # user added
 .DS_Store
 .gitignore
+package-lock.json
